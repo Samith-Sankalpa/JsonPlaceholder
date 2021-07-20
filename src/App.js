@@ -13,7 +13,7 @@ export default function App() {
   return (
     <>
       <div className="container">
-        <h1>Fetching data from third party API</h1>
+        <h1>Fetching data from third party Rest-API</h1>
       </div>
       <div>
         <Users data={users} />
